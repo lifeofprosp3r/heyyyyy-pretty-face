@@ -26,13 +26,13 @@ function App() {
       image: "/character/one.png",
     },
     {
-      content: `Recently, we met.
-      And somehow, you've been on my mind ever since.
+      content: `After meeting recently youve somehow
+        been on my mind ever since.
       `,
       image: "/character/two.png",
     },
     {
-      content: `Then we went on our first date…And I realized—yep, I want this girl. For life.
+      content: `We went on our first date…And I realized—yep, I want this girl. For life.
       `,
       image: "/character/three.png",
     },
@@ -87,7 +87,7 @@ hold your hands, and look into your pretty eyes.`,
               transition={{ delay: 0.3, type: "spring" }}
               className="text-white text-4xl font-bold"
             >
-              Yayyyyyyy!!!!!
+              Yayyyyyyy!!I LOVE YOU💖!
             </motion.h1>
             <img
               src="/character/yayyyy.png"
